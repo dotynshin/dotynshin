@@ -1,7 +1,7 @@
 ### Hi there, I am Daniyar 👋
 
 - 🔥 I have passion for writing clean and reusable code for award-winning global projects
-- 🔭 I am currently working on React project for https://www.auto.kz/
+- 🔭 I am currently working for https://www.auto.kz/
 - ⚛️ I am currently learning React and Redux-Saga
 - 📫 How to reach me: daniyar.otynshin@gmail.com
 
