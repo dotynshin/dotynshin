@@ -1,8 +1,8 @@
 ### Hi there, I am Daniyar 👋
 
 - 🔥 I have passion for writing clean and reusable code for award-winning global projects
-- 🔭 I am currently working on React project for https://www.nastavniki.org/
-- ⚛️ I am currently learning TypeScript and React
+- 🔭 I am currently working on React project for https://www.auto.kz/
+- ⚛️ I am currently learning React Redux-Saga
 - 📫 How to reach me: daniyar.otynshin@gmail.com
 
 ### Languages and Tools:
