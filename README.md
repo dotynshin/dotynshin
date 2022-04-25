@@ -1,6 +1,5 @@
 ### Hi there, I am Daniyar 👋
 
-- 🔭 I am currently working for https://www.auto.kz/
 - 📫 How to reach me: daniyar.otynshin@gmail.com
 
 ### Languages and Tools:
