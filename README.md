@@ -11,6 +11,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2749/PNG/512/github_apps_platform_icon_176077.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/601/PNG/256/html_5_icon-icons.com_55763.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
